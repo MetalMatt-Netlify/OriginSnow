@@ -599,6 +599,10 @@ blockquote {
   text-align: center;
 }
 
+.section {
+  min-height: 100vh;
+}
+
 @media screen and (max-width: 991px) {
   .icon {
     color: #cf0;
